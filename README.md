@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @islamux
+- 👋 Hi, I’m @Fathi Mohammed Saeed
 - 👀 I’m interested in Linux & OpenSource.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...

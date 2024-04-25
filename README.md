@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fathi Mohammed Saeed
 - 👀 I’m interested in Linux & OpenSource.
-- 🌱 I’m currently learning programming.
+- 🌱 I’m growing my skills in programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Fathi733[@]gmail[.]com
 
